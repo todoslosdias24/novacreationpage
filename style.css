@@ -83,7 +83,7 @@
 }*/
 
 .contenedor-carusel {
-    background-image: url(/images/abstract-background_Mesa\ de\ trabajo\ 1\ copia.png);
+    background-image: url('./images/abstract-background_Mesa\ de\ trabajo\ 1\ copia.png');
     background-size: cover;
     display: flex;
     justify-content: space-around;
@@ -144,7 +144,7 @@
 }
 
 .seccion-servicios {
-    background-image: url(/images/abstract-background_2_Mesa\ de\ trabajo\ 1\ copia.png);
+    background-image: url('./images/abstract-background_2_Mesa\ de\ trabajo\ 1\ copia.png');
     background-size: cover;
 }
 
